@@ -10,8 +10,6 @@ using System.Text.Json;
 
 internal class Program
 {
-    static IConfiguration? _configuration;
-
     static async Task Main(string[] args)
     {
         // Configurar la construcción del contenedor de dependencias
@@ -63,7 +61,7 @@ internal class Program
 
                 Console.WriteLine("SHA256 Hash de la hora actual: " + hash);
 
-                await Task.Delay(5000, token); // Esperar 1 segundo
+                await Task.Delay(1000, token); // Esperar 1 segundo
             }
         }
 

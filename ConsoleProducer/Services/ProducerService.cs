@@ -1,6 +1,5 @@
 ﻿using Confluent.Kafka;
 using Microsoft.Extensions.Configuration;
-using System.Configuration;
 
 namespace ConsoleProducer.Services
 {

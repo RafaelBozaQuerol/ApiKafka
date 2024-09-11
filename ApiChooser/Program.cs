@@ -2,8 +2,6 @@
 using ApiChooser.Services;
 using ApiChooser;
 using Microsoft.Extensions.Configuration;
-using System.Net;
-using System.Text;
 using ApiChooser.Utils;
 
 internal class Program

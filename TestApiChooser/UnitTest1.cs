@@ -3,7 +3,6 @@ using ApiChooser.Interfaces;
 using Moq;
 using Moq.Protected;
 using System.Net;
-using FluentAssertions;
 
 
 namespace TestApiChooser
