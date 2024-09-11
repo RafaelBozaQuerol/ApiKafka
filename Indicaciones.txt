@@ -1,0 +1,13 @@
+-Comandos para arrancar kafka
+-Correr en Consola y mantenerlas abiertas
+
+
+// start zookeeper server
+./bin/windows/zookeeper-server-start.bat config/zookeeper.properties
+
+
+// start kafka server
+./bin/windows/kafka-server-start.bat config/server.properties
+
+
+

@@ -11,6 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApiChooser", "TestApiCh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleProducer", "ConsoleProducer\ConsoleProducer.csproj", "{61ACBC40-E9FE-4A0C-B8E4-1BCDDF208743}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BA9526EF-8037-4080-81AF-89B5EBE94B2B}"
+	ProjectSection(SolutionItems) = preProject
+		Indicaciones.txt = Indicaciones.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
